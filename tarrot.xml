@@ -1,0 +1,788 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_carddatabase version="4">
+<sets>
+    <set>
+        <name>TAROT</name>
+          <longname>Minchiate Fiorentine Deck</longname>
+          <settype>Custom</settype>
+    </set>
+</sets>
+<cards>
+    <card>
+        <name>The Fool</name>
+        <text>The Fool - Trumps - 0</text>
+        <set num="0" picurl="http://www.tarot.org.il/Minchiate/Minchiate01.jpg">TAROT</set>
+        <prop>
+            <type>trump</type>
+        </prop>
+    </card>
+    <card>
+        <name>The Magician</name>
+        <text>The Magician - Trumps - 1</text>
+        <set num="1" picurl="http://www.tarot.org.il/Minchiate/Minchiate02.jpg">TAROT</set>
+        <prop>
+            <type>trump</type>
+        </prop>
+    </card>
+    <card>
+        <name>Grand Duke</name>
+        <text>Grand Duke - Trumps - 2</text>
+        <set num="2" picurl="http://www.tarot.org.il/Minchiate/Minchiate03.jpg">TAROT</set>
+        <prop>
+            <type>trump</type>
+        </prop>
+    </card>
+    <card>
+        <name>Western Emperor</name>
+        <text>Western Emperor - Trumps - 3</text>
+        <set num="3" picurl="http://www.tarot.org.il/Minchiate/Minchiate04.jpg">TAROT</set>
+        <prop>
+            <type>trump</type>
+        </prop>
+    </card>
+    <card>
+        <name>Eastern Emperor</name>
+        <text>Eastern Emperor - Trumps - 4</text>
+        <set num="4" picurl="http://www.tarot.org.il/Minchiate/Minchiate05.jpg">TAROT</set>
+        <prop>
+            <type>trump</type>
+        </prop>
+    </card>
+    <card>
+        <name>Love</name>
+        <text>Love - Trumps - 5</text>
+        <set num="5" picurl="http://www.tarot.org.il/Minchiate/Minchiate06.jpg">TAROT</set>
+        <prop>
+            <type>trump</type>
+        </prop>
+    </card>
+    <card>
+        <name>Temperance</name>
+        <text>Temperance - Trumps - 6</text>
+        <set num="6" picurl="http://www.tarot.org.il/Minchiate/Minchiate07.jpg">TAROT</set>
+        <prop>
+            <type>trump</type>
+        </prop>
+    </card>
+    <card>
+        <name>Strength</name>
+        <text>Strength - Trumps - 7</text>
+        <set num="7" picurl="http://www.tarot.org.il/Minchiate/Minchiate08.jpg">TAROT</set>
+        <prop>
+            <type>trump</type>
+        </prop>
+    </card>
+    <card>
+        <name>Justice</name>
+        <text>Justice - Trumps - 8</text>
+        <set num="8" picurl="http://www.tarot.org.il/Minchiate/Minchiate09.jpg">TAROT</set>
+        <prop>
+            <type>trump</type>
+        </prop>
+    </card>
+    <card>
+        <name>Wheel of Fortune</name>
+        <text>Wheel of Fortune - Trumps - 9</text>
+        <set num="9" picurl="http://www.tarot.org.il/Minchiate/Minchiate10.jpg">TAROT</set>
+        <prop>
+            <type>trump</type>
+        </prop>
+    </card>
+    <card>
+        <name>The Chariot</name>
+        <text>The Chariot - Trumps - 10</text>
+        <set num="10" picurl="http://www.tarot.org.il/Minchiate/Minchiate11.jpg">TAROT</set>
+        <prop>
+            <type>trump</type>
+        </prop>
+    </card>
+    <card>
+        <name>Time</name>
+        <text>Time - Trumps - 11</text>
+        <set num="11" picurl="http://www.tarot.org.il/Minchiate/Minchiate12.jpg">TAROT</set>
+        <prop>
+            <type>trump</type>
+        </prop>
+    </card>
+    <card>
+        <name>Hanged Man</name>
+        <text>Hanged Man - Trumps - 12</text>
+        <set num="12" picurl="http://www.tarot.org.il/Minchiate/Minchiate13.jpg">TAROT</set>
+        <prop>
+            <type>trump</type>
+        </prop>
+    </card>
+    <card>
+        <name>Death</name>
+        <text>Death - Trumps - 13</text>
+        <set num="13" picurl="http://www.tarot.org.il/Minchiate/Minchiate14.jpg">TAROT</set>
+        <prop>
+            <type>trump</type>
+        </prop>
+    </card>
+    <card>
+        <name>The Devil</name>
+        <text>The Devil - Trumps - 14</text>
+        <set num="14" picurl="http://www.tarot.org.il/Minchiate/Minchiate15.jpg">TAROT</set>
+        <prop>
+            <type>trump</type>
+        </prop>
+    </card>
+    <card>
+        <name>The Tower</name>
+        <text>The Tower - Trumps - 15</text>
+        <set num="15" picurl="http://www.tarot.org.il/Minchiate/Minchiate16.jpg">TAROT</set>
+        <prop>
+            <type>trump</type>
+        </prop>
+    </card>
+    <card>
+        <name>Hope</name>
+        <text>Hope - Trumps - 16</text>
+        <set num="16" picurl="http://www.tarot.org.il/Minchiate/Minchiate17.jpg">TAROT</set>
+        <prop>
+            <type>trump</type>
+        </prop>
+    </card>
+    <card>
+        <name>Prudence</name>
+        <text>Prudence - Trumps - 17</text>
+        <set num="17" picurl="http://www.tarot.org.il/Minchiate/Minchiate18.jpg">TAROT</set>
+        <prop>
+            <type>trump</type>
+        </prop>
+    </card>
+    <card>
+        <name>Faith</name>
+        <text>Faith - Trumps - 18</text>
+        <set num="18" picurl="http://www.tarot.org.il/Minchiate/Minchiate19.jpg">TAROT</set>
+        <prop>
+            <type>trump</type>
+        </prop>
+    </card>
+    <card>
+        <name>Charity</name>
+        <text>Charity - Trumps - 19</text>
+        <set num="19" picurl="http://www.tarot.org.il/Minchiate/Minchiate20.jpg">TAROT</set>
+        <prop>
+            <type>trump</type>
+        </prop>
+    </card>
+    <card>
+        <name>Fire</name>
+        <text>Fire - Trumps - 20</text>
+        <set num="20" picurl="http://www.tarot.org.il/Minchiate/Minchiate21.jpg">TAROT</set>
+        <prop>
+            <type>trump</type>
+        </prop>
+    </card>
+    <card>
+        <name>Water</name>
+        <text>Water - Trumps - 21</text>
+        <set num="21" picurl="http://www.tarot.org.il/Minchiate/Minchiate22.jpg">TAROT</set>
+        <prop>
+            <type>trump</type>
+        </prop>
+    </card>
+    <card>
+        <name>Earth</name>
+        <text>Earth - Trumps - 22</text>
+        <set num="22" picurl="http://www.tarot.org.il/Minchiate/Minchiate23.jpg">TAROT</set>
+        <prop>
+            <type>trump</type>
+        </prop>
+    </card>
+    <card>
+        <name>Air</name>
+        <text>Air - Trumps - 23</text>
+        <set num="23" picurl="http://www.tarot.org.il/Minchiate/Minchiate24.jpg">TAROT</set>
+        <prop>
+            <type>trump</type>
+        </prop>
+    </card>
+    <card>
+        <name>Libra</name>
+        <text>Libra - Trumps - 24</text>
+        <set num="24" picurl="http://www.tarot.org.il/Minchiate/Minchiate25.jpg">TAROT</set>
+        <prop>
+            <type>trump</type>
+        </prop>
+    </card>
+    <card>
+        <name>Virgo</name>
+        <text>Virgo - Trumps - 25</text>
+        <set num="25" picurl="http://www.tarot.org.il/Minchiate/Minchiate26.jpg">TAROT</set>
+        <prop>
+            <type>trump</type>
+        </prop>
+    </card>
+    <card>
+        <name>Scorpio</name>
+        <text>Scorpio - Trumps - 26</text>
+        <set num="26" picurl="http://www.tarot.org.il/Minchiate/Minchiate27.jpg">TAROT</set>
+        <prop>
+            <type>trump</type>
+        </prop>
+    </card>
+    <card>
+        <name>Aries</name>
+        <text>Aries - Trumps - 27</text>
+        <set num="27" picurl="http://www.tarot.org.il/Minchiate/Minchiate28.jpg">TAROT</set>
+        <prop>
+            <type>trump</type>
+        </prop>
+    </card>
+    <card>
+        <name>Capricorn</name>
+        <text>Capricorn - Trumps - 28</text>
+        <set num="28" picurl="http://www.tarot.org.il/Minchiate/Minchiate29.jpg">TAROT</set>
+        <prop>
+            <type>trump</type>
+        </prop>
+    </card>
+    <card>
+        <name>Sagittarius</name>
+        <text>Sagittarius - Trumps - 29</text>
+        <set num="29" picurl="http://www.tarot.org.il/Minchiate/Minchiate30.jpg">TAROT</set>
+        <prop>
+            <type>trump</type>
+        </prop>
+    </card>
+    <card>
+        <name>Cancer</name>
+        <text>Cancer - Trumps - 30</text>
+        <set num="30" picurl="http://www.tarot.org.il/Minchiate/Minchiate31.jpg">TAROT</set>
+        <prop>
+            <type>trump</type>
+        </prop>
+    </card>
+    <card>
+        <name>Pisces</name>
+        <text>Pisces - Trumps - 31</text>
+        <set num="31" picurl="http://www.tarot.org.il/Minchiate/Minchiate32.jpg">TAROT</set>
+        <prop>
+            <type>trump</type>
+        </prop>
+    </card>
+    <card>
+        <name>Aquarius</name>
+        <text>Aquarius - Trumps - 32</text>
+        <set num="32" picurl="http://www.tarot.org.il/Minchiate/Minchiate33.jpg">TAROT</set>
+        <prop>
+            <type>trump</type>
+        </prop>
+    </card>
+    <card>
+        <name>Leo</name>
+        <text>Leo - Trumps - 33</text>
+        <set num="33" picurl="http://www.tarot.org.il/Minchiate/Minchiate34.jpg">TAROT</set>
+        <prop>
+            <type>trump</type>
+        </prop>
+    </card>
+    <card>
+        <name>Taurus</name>
+        <text>Taurus - Trumps - 34</text>
+        <set num="34" picurl="http://www.tarot.org.il/Minchiate/Minchiate35.jpg">TAROT</set>
+        <prop>
+            <type>trump</type>
+        </prop>
+    </card>
+    <card>
+        <name>Gemini</name>
+        <text>Gemini - Trumps - 35</text>
+        <set num="35" picurl="http://www.tarot.org.il/Minchiate/Minchiate36.jpg">TAROT</set>
+        <prop>
+            <type>trump</type>
+        </prop>
+    </card>
+    <card>
+        <name>The Star</name>
+        <text>The Star - Trumps - 36</text>
+        <set num="36" picurl="http://www.tarot.org.il/Minchiate/Minchiate37.jpg">TAROT</set>
+        <prop>
+            <type>trump</type>
+        </prop>
+    </card>
+    <card>
+        <name>The Moon</name>
+        <text>The Moon - Trumps - 37</text>
+        <set num="37" picurl="http://www.tarot.org.il/Minchiate/Minchiate38.jpg">TAROT</set>
+        <prop>
+            <type>trump</type>
+        </prop>
+    </card>
+    <card>
+        <name>The Sun</name>
+        <text>The Sun - Trumps - 38</text>
+        <set num="38" picurl="http://www.tarot.org.il/Minchiate/Minchiate39.jpg">TAROT</set>
+        <prop>
+            <type>trump</type>
+        </prop>
+    </card>
+    <card>
+        <name>The World</name>
+        <text>The World - Trumps - 39</text>
+        <set num="39" picurl="http://www.tarot.org.il/Minchiate/Minchiate40.jpg">TAROT</set>
+        <prop>
+            <type>trump</type>
+        </prop>
+    </card>
+    <card>
+        <name>Fame</name>
+        <text>Fame - Trumps - 40</text>
+        <set num="40" picurl="http://www.tarot.org.il/Minchiate/Minchiate41.jpg">TAROT</set>
+        <prop>
+            <type>trump</type>
+        </prop>
+    </card>
+    <card>
+        <name>Ace of Cups</name>
+        <text>Ace of Cups</text>
+        <set num="55" picurl="http://www.tarot.org.il/Minchiate/Minchiate56.jpg">TAROT</set>
+        <prop>
+            <type>cup</type>
+        </prop>
+    </card>
+    <card>
+        <name>Two of Cups</name>
+        <text>Two of Cups</text>
+        <set num="56" picurl="http://www.tarot.org.il/Minchiate/Minchiate57.jpg">TAROT</set>
+        <prop>
+            <type>cup</type>
+        </prop>
+    </card>
+    <card>
+        <name>Three of Cups</name>
+        <text>Three of Cups</text>
+        <set num="57" picurl="http://www.tarot.org.il/Minchiate/Minchiate58.jpg">TAROT</set>
+        <prop>
+            <type>cup</type>
+        </prop>
+    </card>
+    <card>
+        <name>Four of Cups</name>
+        <text>Four of Cups</text>
+        <set num="58" picurl="http://www.tarot.org.il/Minchiate/Minchiate59.jpg">TAROT</set>
+        <prop>
+            <type>cup</type>
+        </prop>
+    </card>
+    <card>
+        <name>Five of Cups</name>
+        <text>Five of Cups</text>
+        <set num="59" picurl="http://www.tarot.org.il/Minchiate/Minchiate60.jpg">TAROT</set>
+        <prop>
+            <type>cup</type>
+        </prop>
+    </card>
+    <card>
+        <name>Six of Cups</name>
+        <text>Six of Cups</text>
+        <set num="60" picurl="http://www.tarot.org.il/Minchiate/Minchiate61.jpg">TAROT</set>
+        <prop>
+            <type>cup</type>
+        </prop>
+    </card>
+    <card>
+        <name>Seven of Cups</name>
+        <text>Seven of Cups</text>
+        <set num="61" picurl="http://www.tarot.org.il/Minchiate/Minchiate62.jpg">TAROT</set>
+        <prop>
+            <type>cup</type>
+        </prop>
+    </card>
+    <card>
+        <name>Eight of Cups</name>
+        <text>Eight of Cups</text>
+        <set num="62" picurl="http://www.tarot.org.il/Minchiate/Minchiate63.jpg">TAROT</set>
+        <prop>
+            <type>cup</type>
+        </prop>
+    </card>
+    <card>
+        <name>Nine of Cups</name>
+        <text>Nine of Cups</text>
+        <set num="63" picurl="http://www.tarot.org.il/Minchiate/Minchiate64.jpg">TAROT</set>
+        <prop>
+            <type>cup</type>
+        </prop>
+    </card>
+    <card>
+        <name>Ten of Cups</name>
+        <text>Ten of Cups</text>
+        <set num="64" picurl="http://www.tarot.org.il/Minchiate/Minchiate65.jpg">TAROT</set>
+        <prop>
+            <type>cup</type>
+        </prop>
+    </card>
+    <card>
+        <name>Page of Cups</name>
+        <text>Page of Cups</text>
+        <set num="65" picurl="http://www.tarot.org.il/Minchiate/Minchiate66.jpg">TAROT</set>
+        <prop>
+            <type>cup</type>
+        </prop>
+    </card>
+    <card>
+        <name>Knight of Cups</name>
+        <text>Knight of Cups</text>
+        <set num="66" picurl="http://www.tarot.org.il/Minchiate/Minchiate67.jpg">TAROT</set>
+        <prop>
+            <type>cup</type>
+        </prop>
+    </card>
+    <card>
+        <name>Queen of Cups</name>
+        <text>Queen of Cups</text>
+        <set num="67" picurl="http://www.tarot.org.il/Minchiate/Minchiate68.jpg">TAROT</set>
+        <prop>
+            <type>cup</type>
+        </prop>
+    </card>
+    <card>
+        <name>King of Cups</name>
+        <text>King of Cups</text>
+        <set num="68" picurl="http://www.tarot.org.il/Minchiate/Minchiate69.jpg">TAROT</set>
+        <prop>
+            <type>cup</type>
+        </prop>
+    </card>
+    <card>
+        <name>Ace of Coins</name>
+        <text>Ace of Coins</text>
+        <set num="83" picurl="http://www.tarot.org.il/Minchiate/Minchiate84.jpg">TAROT</set>
+        <prop>
+            <type>coin</type>
+        </prop>
+    </card>
+    <card>
+        <name>Two of Coins</name>
+        <text>Two of Coins</text>
+        <set num="84" picurl="http://www.tarot.org.il/Minchiate/Minchiate85.jpg">TAROT</set>
+        <prop>
+            <type>coin</type>
+        </prop>
+    </card>
+    <card>
+        <name>Three of Coins</name>
+        <text>Three of Coins</text>
+        <set num="85" picurl="http://www.tarot.org.il/Minchiate/Minchiate86.jpg">TAROT</set>
+        <prop>
+            <type>coin</type>
+        </prop>
+    </card>
+    <card>
+        <name>Four of Coins</name>
+        <text>Four of Coins</text>
+        <set num="86" picurl="http://www.tarot.org.il/Minchiate/Minchiate87.jpg">TAROT</set>
+        <prop>
+            <type>coin</type>
+        </prop>
+    </card>
+    <card>
+        <name>Five of Coins</name>
+        <text>Five of Coins</text>
+        <set num="87" picurl="http://www.tarot.org.il/Minchiate/Minchiate88.jpg">TAROT</set>
+        <prop>
+            <type>coin</type>
+        </prop>
+    </card>
+    <card>
+        <name>Six of Coins</name>
+        <text>Six of Coins</text>
+        <set num="88" picurl="http://www.tarot.org.il/Minchiate/Minchiate89.jpg">TAROT</set>
+        <prop>
+            <type>coin</type>
+        </prop>
+    </card>
+    <card>
+        <name>Seven of Coins</name>
+        <text>Seven of Coins</text>
+        <set num="89" picurl="http://www.tarot.org.il/Minchiate/Minchiate90.jpg">TAROT</set>
+        <prop>
+            <type>coin</type>
+        </prop>
+    </card>
+    <card>
+        <name>Eight of Coins</name>
+        <text>Eight of Coins</text>
+        <set num="90" picurl="http://www.tarot.org.il/Minchiate/Minchiate91.jpg">TAROT</set>
+        <prop>
+            <type>coin</type>
+        </prop>
+    </card>
+    <card>
+        <name>Nine of Coins</name>
+        <text>Nine of Coins</text>
+        <set num="91" picurl="http://www.tarot.org.il/Minchiate/Minchiate92.jpg">TAROT</set>
+        <prop>
+            <type>coin</type>
+        </prop>
+    </card>
+    <card>
+        <name>Ten of Coins</name>
+        <text>Ten of Coins</text>
+        <set num="92" picurl="http://www.tarot.org.il/Minchiate/Minchiate93.jpg">TAROT</set>
+        <prop>
+            <type>coin</type>
+        </prop>
+    </card>
+    <card>
+        <name>Page of Coins</name>
+        <text>Page of Coins</text>
+        <set num="93" picurl="http://www.tarot.org.il/Minchiate/Minchiate94.jpg">TAROT</set>
+        <prop>
+            <type>coin</type>
+        </prop>
+    </card>
+    <card>
+        <name>Knight of Coins</name>
+        <text>Knight of Coins</text>
+        <set num="94" picurl="http://www.tarot.org.il/Minchiate/Minchiate95.jpg">TAROT</set>
+        <prop>
+            <type>coin</type>
+        </prop>
+    </card>
+    <card>
+        <name>Queen of Coins</name>
+        <text>Queen of Coins</text>
+        <set num="95" picurl="http://www.tarot.org.il/Minchiate/Minchiate96.jpg">TAROT</set>
+        <prop>
+            <type>coin</type>
+        </prop>
+    </card>
+    <card>
+        <name>King of Coins</name>
+        <text>King of Coins</text>
+        <set num="96" picurl="http://www.tarot.org.il/Minchiate/Minchiate97.jpg">TAROT</set>
+        <prop>
+            <type>coin</type>
+        </prop>
+    </card>
+    <card>
+        <name>Ace of Wands</name>
+        <text>Ace of Wands</text>
+        <set num="41" picurl="http://www.tarot.org.il/Minchiate/Minchiate42.jpg">TAROT</set>
+        <prop>
+            <type>wand</type>
+        </prop>
+    </card>
+    <card>
+        <name>Two of Wands</name>
+        <text>Two of Wands</text>
+        <set num="42" picurl="http://www.tarot.org.il/Minchiate/Minchiate43.jpg">TAROT</set>
+        <prop>
+            <type>wand</type>
+        </prop>
+    </card>
+    <card>
+        <name>Three of Wands</name>
+        <text>Three of Wands</text>
+        <set num="43" picurl="http://www.tarot.org.il/Minchiate/Minchiate44.jpg">TAROT</set>
+        <prop>
+            <type>wand</type>
+        </prop>
+    </card>
+    <card>
+        <name>Four of Wands</name>
+        <text>Four of Wands</text>
+        <set num="44" picurl="http://www.tarot.org.il/Minchiate/Minchiate45.jpg">TAROT</set>
+        <prop>
+            <type>wand</type>
+        </prop>
+    </card>
+    <card>
+        <name>Five of Wands</name>
+        <text>Five of Wands</text>
+        <set num="45" picurl="http://www.tarot.org.il/Minchiate/Minchiate46.jpg">TAROT</set>
+        <prop>
+            <type>wand</type>
+        </prop>
+    </card>
+    <card>
+        <name>Six of Wands</name>
+        <text>Six of Wands</text>
+        <set num="46" picurl="http://www.tarot.org.il/Minchiate/Minchiate47.jpg">TAROT</set>
+        <prop>
+            <type>wand</type>
+        </prop>
+    </card>
+    <card>
+        <name>Seven of Wands</name>
+        <text>Seven of Wands</text>
+        <set num="47" picurl="http://www.tarot.org.il/Minchiate/Minchiate48.jpg">TAROT</set>
+        <prop>
+            <type>wand</type>
+        </prop>
+    </card>
+    <card>
+        <name>Eight of Wands</name>
+        <text>Eight of Wands</text>
+        <set num="48" picurl="http://www.tarot.org.il/Minchiate/Minchiate49.jpg">TAROT</set>
+        <prop>
+            <type>wand</type>
+        </prop>
+    </card>
+    <card>
+        <name>Nine of Wands</name>
+        <text>Nine of Wands</text>
+        <set num="49" picurl="http://www.tarot.org.il/Minchiate/Minchiate50.jpg">TAROT</set>
+        <prop>
+            <type>wand</type>
+        </prop>
+    </card>
+    <card>
+        <name>Ten of Wands</name>
+        <text>Ten of Wands</text>
+        <set num="50" picurl="http://www.tarot.org.il/Minchiate/Minchiate51.jpg">TAROT</set>
+        <prop>
+            <type>wand</type>
+        </prop>
+    </card>
+    <card>
+        <name>Page of Wands</name>
+        <text>Page of Wands</text>
+        <set num="51" picurl="http://www.tarot.org.il/Minchiate/Minchiate52.jpg">TAROT</set>
+        <prop>
+            <type>wand</type>
+        </prop>
+    </card>
+    <card>
+        <name>Knight of Wands</name>
+        <text>Knight of Wands</text>
+        <set num="52" picurl="http://www.tarot.org.il/Minchiate/Minchiate53.jpg">TAROT</set>
+        <prop>
+            <type>wand</type>
+        </prop>
+    </card>
+    <card>
+        <name>Queen of Wands</name>
+        <text>Queen of Wands</text>
+        <set num="53" picurl="http://www.tarot.org.il/Minchiate/Minchiate54.jpg">TAROT</set>
+        <prop>
+            <type>wand</type>
+        </prop>
+    </card>
+    <card>
+        <name>King of Wands</name>
+        <text>King of Wands</text>
+        <set num="54" picurl="http://www.tarot.org.il/Minchiate/Minchiate55.jpg">TAROT</set>
+        <prop>
+            <type>wand</type>
+        </prop>
+    </card>
+    <card>
+        <name>Ace of Swords</name>
+        <text>Ace of Swords</text>
+        <set num="69" picurl="http://www.tarot.org.il/Minchiate/Minchiate70.jpg">TAROT</set>
+        <prop>
+            <type>sword</type>
+        </prop>
+    </card>
+    <card>
+        <name>Two of Swords</name>
+        <text>Two of Swords</text>
+        <set num="70" picurl="http://www.tarot.org.il/Minchiate/Minchiate71.jpg">TAROT</set>
+        <prop>
+            <type>sword</type>
+        </prop>
+    </card>
+    <card>
+        <name>Three of Swords</name>
+        <text>Three of Swords</text>
+        <set num="71" picurl="http://www.tarot.org.il/Minchiate/Minchiate72.jpg">TAROT</set>
+        <prop>
+            <type>sword</type>
+        </prop>
+    </card>
+    <card>
+        <name>Four of Swords</name>
+        <text>Four of Swords</text>
+        <set num="72" picurl="http://www.tarot.org.il/Minchiate/Minchiate73.jpg">TAROT</set>
+        <prop>
+            <type>sword</type>
+        </prop>
+    </card>
+    <card>
+        <name>Five of Swords</name>
+        <text>Five of Swords</text>
+        <set num="73" picurl="http://www.tarot.org.il/Minchiate/Minchiate74.jpg">TAROT</set>
+        <prop>
+            <type>sword</type>
+        </prop>
+    </card>
+    <card>
+        <name>Six of Swords</name>
+        <text>Six of Swords</text>
+        <set num="74" picurl="http://www.tarot.org.il/Minchiate/Minchiate75.jpg">TAROT</set>
+        <prop>
+            <type>sword</type>
+        </prop>
+    </card>
+    <card>
+        <name>Seven of Swords</name>
+        <text>Seven of Swords</text>
+        <set num="75" picurl="http://www.tarot.org.il/Minchiate/Minchiate76.jpg">TAROT</set>
+        <prop>
+            <type>sword</type>
+        </prop>
+    </card>
+    <card>
+        <name>Eight of Swords</name>
+        <text>Eight of Swords</text>
+        <set num="76" picurl="http://www.tarot.org.il/Minchiate/Minchiate77.jpg">TAROT</set>
+        <prop>
+            <type>sword</type>
+        </prop>
+    </card>
+    <card>
+        <name>Nine of Swords</name>
+        <text>Nine of Swords</text>
+        <set num="77" picurl="http://www.tarot.org.il/Minchiate/Minchiate78.jpg">TAROT</set>
+        <prop>
+            <type>sword</type>
+        </prop>
+    </card>
+    <card>
+        <name>Ten of Swords</name>
+        <text>Ten of Swords</text>
+        <set num="78" picurl="http://www.tarot.org.il/Minchiate/Minchiate79.jpg">TAROT</set>
+        <prop>
+            <type>sword</type>
+        </prop>
+    </card>
+    <card>
+        <name>Page of Swords</name>
+        <text>Page of Swords</text>
+        <set num="79" picurl="http://www.tarot.org.il/Minchiate/Minchiate80.jpg">TAROT</set>
+        <prop>
+            <type>sword</type>
+        </prop>
+    </card>
+    <card>
+        <name>Knight of Swords</name>
+        <text>Knight of Swords</text>
+        <set num="80" picurl="http://www.tarot.org.il/Minchiate/Minchiate81.jpg">TAROT</set>
+        <prop>
+            <type>sword</type>
+        </prop>
+    </card>
+    <card>
+        <name>Queen of Swords</name>
+        <text>Queen of Swords</text>
+        <set num="81" picurl="http://www.tarot.org.il/Minchiate/Minchiate82.jpg">TAROT</set>
+        <prop>
+            <type>sword</type>
+        </prop>
+    </card>
+    <card>
+        <name>King of Swords</name>
+        <text>King of Swords</text>
+        <set num="82" picurl="http://www.tarot.org.il/Minchiate/Minchiate83.jpg">TAROT</set>
+        <prop>
+            <type>sword</type>
+        </prop>
+    </card>
+</cards>
+</cockatrice_carddatabase>
